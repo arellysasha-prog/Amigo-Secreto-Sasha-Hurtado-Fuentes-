@@ -1,8 +1,9 @@
 EL AMIGO SECRETO
 
-Divertido juego para sortear a quien deber dar tu regalo secreto, es muy facil.
+Divertido sortear para descubrir quien sera tu amigo secreto.
 
-debes ingresar los nombres de tus familiares, amigos o compañeros pichar "sorteo" y listo.
+debes ingresar al link https://arellysasha-prog.github.io/Amigo-Secreto-Sasha-Hurtado-Fuentes-/, luego escribe los nombres de tus familiares, amigos o compañeros,
+picha "sorteo" y listo.
 
 podras saber al instante quien sera tú Amigo Secreto.
 
